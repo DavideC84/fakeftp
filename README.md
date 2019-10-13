@@ -6,7 +6,7 @@ HOW IT WORKS
 ************
 
 This short script, opens a socket on port 21, pretending to be an ftp server.
-The attacker can telnet a service.
+The attacker can telnet the service.
 
 A fake prompt is shown to the attacker, user and password are asked.
 
